@@ -3,7 +3,7 @@ name: Ehtisham Ullah
 email: ehtishamullah@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Software Development Support & Configuration Consultant, GB (Gilgit)"
+skills: "Software Developer - GB (Gilgit)"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -17,6 +17,8 @@ social:
     url: https://twitter.com/shaamuji
   - title: youtube
     url: https://www.youtube.com/channel/UCp4s3KaeZ2gPTWczYr8U7fg
+    - title: instagram
+    url: https://www.instagram.com/shaamuji
     
 # Google webmaster tools
 google_verify:
